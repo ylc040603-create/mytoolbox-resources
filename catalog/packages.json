@@ -2,9 +2,10 @@
     "count":  10,
     "sources":  {
                     "pan123":  {
-                                   "note":  "123云盘直链根（待登录后填写）",
-                                   "type":  "http",
-                                   "base":  ""
+                                   "dirId":  "48216639",
+                                   "note":  "123云盘目录分享（免登录访问，下载走分享API，10包全量）",
+                                   "type":  "share",
+                                   "shareUrl":  "https://1825022094.share.123pan.cn/123pan/4DR2jv-zdUc3"
                                },
                     "github":  {
                                    "note":  "GitHub API 通道（本机已验证可达）",
