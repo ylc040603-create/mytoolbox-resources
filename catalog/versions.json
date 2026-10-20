@@ -1,0 +1,46 @@
+{
+    "count":  10,
+    "updated":  "2026-10-20",
+    "versions":  {
+                     "diskgenius":  {
+                                        "ver":  "5.4.6",
+                                        "updated":  "2026-10-20"
+                                    },
+                     "geek_uninstaller":  {
+                                              "ver":  "1.5",
+                                              "updated":  "2026-10-20"
+                                          },
+                     "gpuz":  {
+                                  "ver":  "2.59",
+                                  "updated":  "2026-10-20"
+                              },
+                     "autoruns":  {
+                                      "ver":  "14.11",
+                                      "updated":  "2026-10-20"
+                                  },
+                     "cpuz":  {
+                                  "ver":  "2.10",
+                                  "updated":  "2026-10-20"
+                              },
+                     "rufus":  {
+                                   "ver":  "4.5",
+                                   "updated":  "2026-10-20"
+                               },
+                     "o_o_shutup10":  {
+                                          "ver":  "1.9",
+                                          "updated":  "2026-10-20"
+                                      },
+                     "7_zip":  {
+                                   "ver":  "26.04",
+                                   "updated":  "2026-10-20"
+                               },
+                     "hwinfo":  {
+                                    "ver":  "8.54",
+                                    "updated":  "2026-10-20"
+                                },
+                     "notepad":  {
+                                     "ver":  "8.7",
+                                     "updated":  "2026-10-20"
+                                 }
+                 }
+}
